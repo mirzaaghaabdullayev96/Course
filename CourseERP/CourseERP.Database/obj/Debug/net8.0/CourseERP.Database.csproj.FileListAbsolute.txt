@@ -1,0 +1,15 @@
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\bin\Debug\net8.0\CourseERP.Database.deps.json
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\bin\Debug\net8.0\CourseERP.Database.dll
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\bin\Debug\net8.0\CourseERP.Database.pdb
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\bin\Debug\net8.0\CourseERP.Core.dll
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\bin\Debug\net8.0\CourseERP.Core.pdb
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\obj\Debug\net8.0\CourseERP.Database.csproj.AssemblyReference.cache
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\obj\Debug\net8.0\CourseERP.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\obj\Debug\net8.0\CourseERP.Database.AssemblyInfoInputs.cache
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\obj\Debug\net8.0\CourseERP.Database.AssemblyInfo.cs
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\obj\Debug\net8.0\CourseERP.Database.csproj.CoreCompileInputs.cache
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\obj\Debug\net8.0\CourseER.A5EE5031.Up2Date
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\obj\Debug\net8.0\CourseERP.Database.dll
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\obj\Debug\net8.0\refint\CourseERP.Database.dll
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\obj\Debug\net8.0\CourseERP.Database.pdb
+C:\Users\mirzaaghaaa\source\repos\CourseERP\CourseERP.Database\obj\Debug\net8.0\ref\CourseERP.Database.dll
