@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CompanyERP.CA/1.0.0": {
+        "dependencies": {
+          "CompanyERP.Business": "1.0.0"
+        },
+        "runtime": {
+          "CompanyERP.CA.dll": {}
+        }
+      },
+      "CompanyERP.Business/1.0.0": {
+        "dependencies": {
+          "CompanyERP.Data": "1.0.0"
+        },
+        "runtime": {
+          "CompanyERP.Business.dll": {}
+        }
+      },
+      "CompanyERP.Core/1.0.0": {
+        "runtime": {
+          "CompanyERP.Core.dll": {}
+        }
+      },
+      "CompanyERP.Data/1.0.0": {
+        "dependencies": {
+          "CompanyERP.Core": "1.0.0"
+        },
+        "runtime": {
+          "CompanyERP.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CompanyERP.CA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompanyERP.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompanyERP.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompanyERP.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

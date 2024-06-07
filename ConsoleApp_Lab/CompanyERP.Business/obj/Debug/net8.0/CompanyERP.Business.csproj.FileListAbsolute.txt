@@ -1,0 +1,17 @@
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\bin\Debug\net8.0\CompanyERP.Business.deps.json
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\bin\Debug\net8.0\CompanyERP.Business.dll
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\bin\Debug\net8.0\CompanyERP.Business.pdb
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\bin\Debug\net8.0\CompanyERP.Core.dll
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\bin\Debug\net8.0\CompanyERP.Data.dll
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\bin\Debug\net8.0\CompanyERP.Data.pdb
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\bin\Debug\net8.0\CompanyERP.Core.pdb
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\obj\Debug\net8.0\CompanyERP.Business.csproj.AssemblyReference.cache
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\obj\Debug\net8.0\CompanyERP.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\obj\Debug\net8.0\CompanyERP.Business.AssemblyInfoInputs.cache
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\obj\Debug\net8.0\CompanyERP.Business.AssemblyInfo.cs
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\obj\Debug\net8.0\CompanyERP.Business.csproj.CoreCompileInputs.cache
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\obj\Debug\net8.0\CompanyE.3F85A5B9.Up2Date
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\obj\Debug\net8.0\CompanyERP.Business.dll
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\obj\Debug\net8.0\refint\CompanyERP.Business.dll
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\obj\Debug\net8.0\CompanyERP.Business.pdb
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Business\obj\Debug\net8.0\ref\CompanyERP.Business.dll

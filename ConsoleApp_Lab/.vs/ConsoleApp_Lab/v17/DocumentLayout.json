@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C2CA3-0F90-4ADC-BD34-A1E69CB598D4}|CompanyERP.Business\\CompanyERP.Business.csproj|c:\\users\\mirzaaghaaa\\source\\repos\\consoleapp_lab\\companyerp.business\\services\\implementation\\serviceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9C2CA3-0F90-4ADC-BD34-A1E69CB598D4}|CompanyERP.Business\\CompanyERP.Business.csproj|solutionrelative:companyerp.business\\services\\implementation\\serviceemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4D11D1-87BE-467A-828B-B8B40447E86B}|CompanyERP.Core\\CompanyERP.Core.csproj|c:\\users\\mirzaaghaaa\\source\\repos\\consoleapp_lab\\companyerp.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4D11D1-87BE-467A-828B-B8B40447E86B}|CompanyERP.Core\\CompanyERP.Core.csproj|solutionrelative:companyerp.core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81BD2972-B1D7-41F5-8BC1-E0245DAF24EC}|CompanyERP.CA\\CompanyERP.CA.csproj|c:\\users\\mirzaaghaaa\\source\\repos\\consoleapp_lab\\companyerp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81BD2972-B1D7-41F5-8BC1-E0245DAF24EC}|CompanyERP.CA\\CompanyERP.CA.csproj|solutionrelative:companyerp.ca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C2CA3-0F90-4ADC-BD34-A1E69CB598D4}|CompanyERP.Business\\CompanyERP.Business.csproj|c:\\users\\mirzaaghaaa\\source\\repos\\consoleapp_lab\\companyerp.business\\services\\implementation\\myhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9C2CA3-0F90-4ADC-BD34-A1E69CB598D4}|CompanyERP.Business\\CompanyERP.Business.csproj|solutionrelative:companyerp.business\\services\\implementation\\myhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C2CA3-0F90-4ADC-BD34-A1E69CB598D4}|CompanyERP.Business\\CompanyERP.Business.csproj|c:\\users\\mirzaaghaaa\\source\\repos\\consoleapp_lab\\companyerp.business\\services\\implementation\\servicedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9C2CA3-0F90-4ADC-BD34-A1E69CB598D4}|CompanyERP.Business\\CompanyERP.Business.csproj|solutionrelative:companyerp.business\\services\\implementation\\servicedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C2CA3-0F90-4ADC-BD34-A1E69CB598D4}|CompanyERP.Business\\CompanyERP.Business.csproj|c:\\users\\mirzaaghaaa\\source\\repos\\consoleapp_lab\\companyerp.business\\services\\implementation\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9C2CA3-0F90-4ADC-BD34-A1E69CB598D4}|CompanyERP.Business\\CompanyERP.Business.csproj|solutionrelative:companyerp.business\\services\\implementation\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C4D11D1-87BE-467A-828B-B8B40447E86B}|CompanyERP.Core\\CompanyERP.Core.csproj|c:\\users\\mirzaaghaaa\\source\\repos\\consoleapp_lab\\companyerp.core\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C4D11D1-87BE-467A-828B-B8B40447E86B}|CompanyERP.Core\\CompanyERP.Core.csproj|solutionrelative:companyerp.core\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A9C2CA3-0F90-4ADC-BD34-A1E69CB598D4}|CompanyERP.Business\\CompanyERP.Business.csproj|c:\\users\\mirzaaghaaa\\source\\repos\\consoleapp_lab\\companyerp.business\\services\\implementation\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A9C2CA3-0F90-4ADC-BD34-A1E69CB598D4}|CompanyERP.Business\\CompanyERP.Business.csproj|solutionrelative:companyerp.business\\services\\implementation\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.CA\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyERP.CA\\Program.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.CA\\Program.cs",
+              "RelativeToolTip": "CompanyERP.CA\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:12:46.458Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyHelper.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Business\\Services\\Implementation\\MyHelper.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Business\\Services\\Implementation\\MyHelper.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Business\\Services\\Implementation\\MyHelper.cs",
+              "RelativeToolTip": "CompanyERP.Business\\Services\\Implementation\\MyHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:21:10.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Core\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Core\\Models\\Employee.cs",
+              "RelativeToolTip": "CompanyERP.Core\\Models\\Employee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:52:00.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Business\\Services\\Implementation\\ServiceEmployee.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Business\\Services\\Implementation\\ServiceEmployee.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Business\\Services\\Implementation\\ServiceEmployee.cs",
+              "RelativeToolTip": "CompanyERP.Business\\Services\\Implementation\\ServiceEmployee.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowB8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:34:47.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceDepartment.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Business\\Services\\Implementation\\ServiceDepartment.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Business\\Services\\Implementation\\ServiceDepartment.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Business\\Services\\Implementation\\ServiceDepartment.cs",
+              "RelativeToolTip": "CompanyERP.Business\\Services\\Implementation\\ServiceDepartment.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T12:34:46.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConsoleWriter.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Business\\Services\\Implementation\\ConsoleWriter.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Business\\Services\\Implementation\\ConsoleWriter.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Business\\Services\\Implementation\\ConsoleWriter.cs",
+              "RelativeToolTip": "CompanyERP.Business\\Services\\Implementation\\ConsoleWriter.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAiwD8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:36:49.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Core\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Core\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Core\\Models\\Department.cs",
+              "RelativeToolTip": "CompanyERP.Core\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T11:09:03.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Controller.cs",
+              "DocumentMoniker": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Business\\Services\\Implementation\\Controller.cs",
+              "RelativeDocumentMoniker": "CompanyERP.Business\\Services\\Implementation\\Controller.cs",
+              "ToolTip": "C:\\Users\\mirzaaghaaa\\source\\repos\\ConsoleApp_Lab\\CompanyERP.Business\\Services\\Implementation\\Controller.cs",
+              "RelativeToolTip": "CompanyERP.Business\\Services\\Implementation\\Controller.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T10:54:02.491Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

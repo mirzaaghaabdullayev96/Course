@@ -1,0 +1,11 @@
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Core\bin\Debug\net8.0\CompanyERP.Core.deps.json
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Core\bin\Debug\net8.0\CompanyERP.Core.dll
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Core\bin\Debug\net8.0\CompanyERP.Core.pdb
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Core\obj\Debug\net8.0\CompanyERP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Core\obj\Debug\net8.0\CompanyERP.Core.AssemblyInfoInputs.cache
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Core\obj\Debug\net8.0\CompanyERP.Core.AssemblyInfo.cs
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Core\obj\Debug\net8.0\CompanyERP.Core.csproj.CoreCompileInputs.cache
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Core\obj\Debug\net8.0\CompanyERP.Core.dll
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Core\obj\Debug\net8.0\refint\CompanyERP.Core.dll
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Core\obj\Debug\net8.0\CompanyERP.Core.pdb
+C:\Users\mirzaaghaaa\source\repos\ConsoleApp_Lab\CompanyERP.Core\obj\Debug\net8.0\ref\CompanyERP.Core.dll
